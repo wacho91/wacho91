@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Cristian Gonzalez</h1>
 
-<h3>A passionate Full-Stack developer with a BackEnd orientation from Colombia</h3>
+<h3>A passionate Full-Stack developer with a BackEnd orientation. From Colombia</h3>
 <p>I have the ability to be very curious and that is why I am constantly learning, and I also quickly incorporate the different new concepts that I am learning day by day. 📝📝 I am a developer who is always willing to teach her knowledge, listen to all constructive criticism to be better than yesterday and thus grow.</p>
 
 
